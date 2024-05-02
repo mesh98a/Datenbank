@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-02T06:24:04.565Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="Z1qCcvBPxnG9ADA2K9OL" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-02T06:25:09.044Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Safari/605.1.15" etag="qu1dD2vGTSMtekP7yxXa" version="24.3.1" type="github">
   <diagram name="Seite-1" id="tdSunxygRCIHNUhvi6nn">
     <mxGraphModel dx="1781" dy="1844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -242,6 +242,15 @@
         </mxCell>
         <mxCell id="lRuvDfMVonZEdwch7UR1-58" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="585" y="148" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lRuvDfMVonZEdwch7UR1-59" value="Name" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="345" y="378" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lRuvDfMVonZEdwch7UR1-60" value="&lt;u&gt;Name&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=default;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="315" y="230" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lRuvDfMVonZEdwch7UR1-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1.1;entryY=0.867;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="lRuvDfMVonZEdwch7UR1-60" target="lRuvDfMVonZEdwch7UR1-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
